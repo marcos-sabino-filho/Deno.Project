@@ -90,7 +90,7 @@ const updateDestino = async (
 };
 
 /**
- * MÉTODO DE REMOÇÃO
+ * MÉTODO DE REMOÇÃO DE UM ITEM POR ID
  */
 const removeDestino = async (
   { params, response }: { params: { id: string }; response: any },
