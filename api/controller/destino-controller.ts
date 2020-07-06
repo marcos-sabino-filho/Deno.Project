@@ -63,7 +63,7 @@ const addDestino = async (
 };
 
 /**
- * MÉTODO DE ATUALIZAÇÃO
+ * MÉTODO DE ATUALIZAÇÃO POR ID
  * @param param0 
  */
 const updateDestino = async (
